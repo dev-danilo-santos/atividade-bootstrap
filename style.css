@@ -3,6 +3,17 @@
     color: #fff;
     
   }
+  .btn-color2{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    
+  }
+
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
   
   .imagem{
     height: 200px;
@@ -19,3 +30,10 @@
   a{
     text-decoration: none;
   }
+
+  .container-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
